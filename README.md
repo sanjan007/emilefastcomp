@@ -8,7 +8,7 @@ store both the files in your local disk in a folder called pythonProject3
 then you must run the batch file that i have provided to install the correct python modules
 then you can run the file with the following command prompt commands:
 
-cd C:\pythonProject3
+cd C:\pythonProject3\
 python facerecogdemo.py
 
 and then the file should run,
