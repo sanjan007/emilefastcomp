@@ -5,7 +5,7 @@ this face detection is still in BETA.
 to download first download python 3.5, make sure you add python to PATH and dont do the custom installation so pip will be installed
 then you can download the facerecogdemo.py file and the packageinstallautomation.bat
 store both the files in your local disk in a folder called pythonProject3
-then you must run the batch file that i have provided to install the correct python modules
+then you must run packageinstallautomation.bat to install the right python packages
 then you can run the file with the following command prompt commands:
 
 cd C:\pythonProject3\
