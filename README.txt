@@ -3,8 +3,9 @@ Python face detection
 
 this face detection is still in BETA.
 to download first download python 3.5, make sure you add python to PATH and dont do the custom installation so pip will be installed
-then you can download the facerecogdemo.py file and the packageinstallautomation.bat
-store both the files in your local disk in a folder called pythonProject3
+then you can download the facerecogdemo.py file, the haarcascade_frontalface_default.xml file and the packageinstallautomation.bat
+store all the files in your local disk in a folder called pythonProject3
+within that same folder create a new one called modules and only store the haarcascade_frontalface_default.xml in that one.
 then you must run packageinstallautomation.bat to install the right python packages
 then you can run the file with the following command prompt commands:
 
